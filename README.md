@@ -106,3 +106,8 @@ Run the real-time classifier:
 sudo python detector_evdev.py
 ```
 The console will display the running statistics (`Str` for straightness, `StdS` for velocity variance) along with an active status verdict (`ЧЕЛОВЕК` or `ОБНАРУЖЕН БОТ!`). Pressing `Ctrl+C` prints the cumulative session verdict.
+
+
+## 📄 License
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
