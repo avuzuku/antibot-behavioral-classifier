@@ -3,8 +3,10 @@
 A low-level mouse dynamics behavioral biometrics system designed to distinguish human users from automated scripts in real time under modern Linux environments (Wayland and X11).
 
 > **Academic Project Note:**  
+>
 > This repository contains a university coursework project (*Курсовой проект*) developed for academic evaluation.  
 > **Localization Notice:**
+>
 > The console interface, interactive terminal prompts, and session reports are localized in **Russian**.
 
 ---
